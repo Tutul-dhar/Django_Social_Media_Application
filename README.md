@@ -11,13 +11,9 @@ Regular User Accounts:
 
 - Username: tutul2Password: 143143aa
 
-- Superuser Account (if applicable):
-
-- Username: adminPassword: admin
-
 Setup and Installation Instructions
 
-Follow these steps to set up and run the application on your local system:
+Follow these steps to set up and run the application on local system:
 
 ### 1. Install Pipenv (if not installed)
 
@@ -77,4 +73,3 @@ The Entity Relationship Diagram (ERD) for the database structure is available in
 
 ### File Name: erd.jpg
 
-Make sure to refer to this diagram for a better understanding of how the database is structured.
